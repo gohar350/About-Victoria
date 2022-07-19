@@ -1,0 +1,42 @@
+#clr {
+    display:flow-root ;
+    background-color: bisque;
+    margin: none;
+
+  }
+  body{
+    margin: 0;
+  }
+  h1{
+    color: blue;
+    margin-left: 15px;
+  }
+  mark{
+    background-color: bisque;
+    color: yellow;
+  }
+
+  hr{
+    height: 5px;
+    background-color: white;
+    border: none;
+    margin-left: 15px;
+    }
+
+p{
+    margin-left: 15px;
+}
+
+h2{
+    color: blue;
+    margin-left: 15px;
+  }
+
+img{
+    height: 15em;
+}
+
+#End h2{
+    color: black;
+    margin-left: 15px;
+}
